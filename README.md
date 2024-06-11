@@ -21,5 +21,6 @@ https://doi.org/10.34740/KAGGLE/DSV/8463025
 ## Other Related Project:
 Crop Disease Detection using EfficientNetB0:
 https://github.com/MuhammadSub/Crop-Disease-Detection-using-EfficientNet-B0
+
 CropSight: Web Hub for Fruit and Crop Disease Detection:
 https://github.com/MuhammadSub/CropSight-Web-Hub-for-Fruit-and-Crop-Disease-Detection
